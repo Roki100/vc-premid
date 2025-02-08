@@ -240,7 +240,7 @@ const preMid = definePlugin({
             if (activity.type === ActivityType.PLAYING) {
                 activity.assets = {
                     large_image: await getAppAsset(id, largeImageKey ?? "guh"),
-                    large_text: "vc-premid",
+                    large_text: "ąąąąąąąąąąą",
                     small_image: await getAppAsset(id, smallImageKey ?? "guhh"),
                     small_text: smallImageText || "hello there :3",
                 };
