@@ -85,7 +85,7 @@ interface PublicApp {
 
 const logger = new Logger("Vencord-PreMiD", "#8fd0ff");
 
-const fetchApplicationsRPC = findByCodeLazy("APPLICATION_RPC(", "Client ID");
+const fetchApplicationsRPC = findByCodeLazy('"Invalid Origin"', ".application");
 
 const apps: any = {};
 async function getApp(applicationId: string): Promise<PublicApp> {
