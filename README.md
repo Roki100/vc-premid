@@ -1,4 +1,4 @@
-## This plugin has been deprecated as of `Oct 1 2024` & the plugin's patches no longer work (Feb 2025)... 
+## ~~This plugin has been deprecated as of `Oct 1 2024` & the plugin's patches no longer work (Feb 2025)...~~ stfu
 
 # PreMiD Vencord
 inspired by [premid-powercord](https://github.com/MulverineX/premid-powercord)
